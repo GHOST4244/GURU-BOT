@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [MR GHOST
-  ['0721718819', 'SAHAN', true],
-  ['6281255369012', 'Ash', true], 
+  ['94721718819', 'SAHAN', true],
+  ['94721718819', 'GHOST', true], 
   [''] 
 ] //Number of owners
 
@@ -51,11 +51,11 @@ global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.igfg = '▢ Follow on Tik Tok\ https://vm.tiktok.com/ZSLPBreYp/
+global.dygp = 'https://chat.whatsapp.com/BibVE6tUI3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://youtube.com
+global.fgpyp = 'https://youtube.com
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 
